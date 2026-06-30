@@ -4,7 +4,7 @@
 
 Comecei a estudar Linux Fundamentals pelo HTB Academy como base pra evoluir em pentesting, hoje meu trabalho é majoritariamente WordPress/fullstack, e quero migrar parte do meu tempo de estudo pra segurança ofensiva. O problema é que o curso entrega muito conteúdo teórico em sequência (containers, redes, hardening, logs) e eu sentia que estava lendo e esquecendo.
 
-Criei este caderno num notebook de IA pra resolver isso: em vez de só ler a documentação, uso a IA pra me forçar a comparar, confrontar minhas próprias hipóteses erradas e simular cenários de ataque/defesa em cima do conteúdo. O objetivo não é só "passar pelo módulo", é sair com material que eu consiga reusar quando for estudar HackTheBox machines de verdade.
+Criei este caderno num notebook LLM pra resolver isso: em vez de só ler a documentação, uso a IA pra me forçar a comparar, confrontar minhas próprias hipóteses erradas e simular cenários de ataque/defesa em cima do conteúdo. O objetivo não é só "passar pelo módulo", é sair com material que eu consiga reusar quando for estudar HackTheBox machines de verdade.
 
 ## Curadoria de Fontes
 
